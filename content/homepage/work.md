@@ -1,19 +1,18 @@
 ---
-title: 'About Me'
+title: 'Over ons'
 weight: 1
 background: 'img/dermatoloog.jpg'
-#button: 'About'
-#buttonLink: '#about'
 ---
 
-## DAGMAR CONINX
+### Wij behandelen:
 
-Ik volgde mijn opleiding geneeskunde in Diepenbeek en Leuven en studeerde af als dermatoloog in 1998.
+* Dermatologische problemen als psoriasis, eczema, acne, infecties, ...
+* Dermatologische tumoren: diagnose en behandeling
+* Laserbehandelingen zowel voor huidverjonging als bloedvaten en ontharing van personen met getinte huid(Nd-yag laser en CO²-fractionele laser)
+* Esthetische behandelingen (filler, liftdraden en andere rimpelbehandelingen)
 
-Ik ben als dermatoloog opgeleid te UZ Leuven onder leiding van professor dr. H. Degreef.
 
-Uiteraard ben ik als dermatoloog erg geïnteresseerd in alle aspecten van de huid zowel huidaandoeningen als de visuele en esthetische facetten.
+### Extra specialisaties:
 
-In dit kader volgde ik extra bijscholing bij prof Boeckx, microchirurgie en deed tijdens mijn opleiding uitgebreide ervaring op in sclerotherapie voor spataders.
-
-In kader van optimale bijscholing en kennis, ben ik ook lid van de Belgisch vereniging van Dermatologie en Venereologie en lid van de Belgische contactallergiegroep.
+* Huidchirurgie: zowel behandelend als esthetische excisies (storende littekens en storende letsels)
+* Haarproblematiek: vooral haarverlies en zowel behandeling met injecties, als wel lokale behandeling en medicatie.
