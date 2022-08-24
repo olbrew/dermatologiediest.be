@@ -31,15 +31,18 @@ params:
 
 menu:
   main:
-    - name: Contacteer
+    - name: Contact
       url: '#contact'
       weight: 1
     - name: Over mij
       url: '#about'
       weight: 2
+    - name: Diensten
+      url: '#services'
+      weight: 3
     - name: Boek Afspraak
       url: '#book'
-      weight: 3
+      weight: 4
 permalinks:
   post: /:year/:month/:day/:slug/
   pages: /:filename/
