@@ -11,12 +11,8 @@ params:
   google_analytics_id: ""
 
   logo:
-    mobile: logo-mobile.png
-    mobile_height: 36px
-    mobile_width: 36px
-    desktop: logo-desktop.png
-    desktop_height: 30px
-    desktop_width: 250px
+    mobile: logo.png
+    desktop: logo.png
     alt: Dermatologie Diest
 
   homepage_meta_tags:
