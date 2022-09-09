@@ -7,3 +7,5 @@ buttonLink: 'https://uwagenda.myorganizer.online/?VGxSVk5FMTZhRVZaVjJSMFdWaEpNbF
 ---
 
 U kan nu ook rechtstreeks via ons online secretariaat boeken. Zo kan u ook buiten de openingsuren een afspraak maken en vermijdt u wachttijden via email.
+
+![Dermatologie Diest logo](/logo.png)
