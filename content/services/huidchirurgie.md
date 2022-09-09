@@ -7,4 +7,4 @@ featured: true
 weight: 2
 ---
 
-Zowel voor esthetische redenen bijvoorbeeld voor de wegname van storende moederplekken als behandeling van huidtumoren.
+Zowel voor medische als esthetische redenen bijvoorbeeld voor de wegname van storende moederplekken als behandeling van huidtumoren.
