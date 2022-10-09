@@ -1,7 +1,7 @@
 email: 'info@dermatologiediest.be'
 phone: '+32 13 33 76 33'
 businessName: 'Dermatologie Diest'
-bookingSentence: 'Boek uw afspraak nu'
+bookingSentence: 'Boek nu een afspraak online'
 onlineCalendarLink: 'https://uwagenda.myorganizer.online/?VGxSVk5FMTZhRVZaVjJSMFdWaEpNbFo1UlhsT1dFMTBUa2hrVWxJeGFFbE5WbGswVG10R1FsVnJiRTlTUlU1UFZteFdTMUpFClNrNVRhemxIVFVSUk5GcEhSVEZNTUVKckNscFlTblJaV0ZKMllrYzVibUZYVm10aFYxWjZaRU0xYVZwVE9YTlBha1YyWVhwdwpkMWxZVVhaYWFuQnFZbms1YlU5dGFERk1NbGsyV1c1VmRscHFjREphVXpnOQ=='
 address: |
   Michel Theysstraat 29 bus 7
@@ -14,8 +14,11 @@ hours:
     close: 12:00
     open2: 13:30
     close2: 19:00
-  - day: Dinsdag
-    open: Afhankelijk van locatie
+  - day: Dinsdag*
+    open: 09:00
+    close: 12:00
+    open2: 14:30
+    close2: 18:15
   - day: Woensdag
     open: 08:30
     close: 19:00
@@ -33,4 +36,5 @@ hours:
     open: Gesloten
   - day: Zondag
     open: Gesloten
+hoursComment: '*: Op dinsdag kan u in de voormiddag afwisselend in Diest of het <a href="https://maps.app.goo.gl/bxR8ZxhawNwUY74J8">Medisch centrum Tessenderlo</a> terecht. In de namiddag in de <a href="https://maps.app.goo.gl/9Uvi1TWMHjjE56zZ9">St. Ursula campus van het Jessa Ziekenhuis</a> in Herk-de-Stad. Dit kan enkel op afspraak.'
 
