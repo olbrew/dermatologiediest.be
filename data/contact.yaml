@@ -15,7 +15,7 @@ hours:
     open2: 13:30
     close2: 19:00
   - day: Dinsdag
-    open: Op afspraak in Tessenderlo of Herk
+    open: Afhankelijk van locatie
   - day: Woensdag
     open: 08:30
     close: 19:00
@@ -33,3 +33,4 @@ hours:
     open: Gesloten
   - day: Zondag
     open: Gesloten
+
