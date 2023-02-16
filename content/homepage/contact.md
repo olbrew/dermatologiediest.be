@@ -4,7 +4,7 @@ weight: 3
 ---
 
 ## Hoe maak ik een afspraak?
-Afspraken worden bij voorkeur via de online booking tool gemaakt. [Boek hier uw afspraak](https://uwagenda.myorganizer.online/?VGxSVk5FMTZhRVZaVjJSMFdWaEpNbFo1UlhsT1dFMTBUa2hrVWxJeGFFbE5WbGswVG10R1FsVnJiRTlTUlU1UFZteFdTMUpFClNrNVRhemxIVFVSUk5GcEhSVEZNTUVKckNscFlTblJaV0ZKMllrYzVibUZYVm10aFYxWjZaRU0xYVZwVE9YTlBha1YyWVhwdwpkMWxZVVhaYWFuQnFZbms1YlU5dGFERk1NbGsyV1c1VmRscHFjREphVXpnOQ==).\
+Afspraken worden bij voorkeur via de online booking tool gemaakt. [Boek hier uw afspraak](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
 Anders kan u ons ook altijd bellen voor **ENKEL** telefonisch gemaakt, niet via email.
 
 ## Hoe kan ik betalen?

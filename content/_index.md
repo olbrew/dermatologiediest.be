@@ -6,7 +6,7 @@ heroBackground: 'img/gebouw.jpg'
 ---
 
 ## Hoe maak ik een afspraak?
-Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://uwagenda.myorganizer.online/?VGxSVk5FMTZhRVZaVjJSMFdWaEpNbFo1UlhsT1dFMTBUa2hrVWxJeGFFbE5WbGswVG10R1FsVnJiRTlTUlU1UFZteFdTMUpFClNrNVRhemxIVFVSUk5GcEhSVEZNTUVKckNscFlTblJaV0ZKMllrYzVibUZYVm10aFYxWjZaRU0xYVZwVE9YTlBha1YyWVhwdwpkMWxZVVhaYWFuQnFZbms1YlU5dGFERk1NbGsyV1c1VmRscHFjREphVXpnOQ==).\
+Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
 Voor laser behandelingen of ingrepen belt u tijdens de openingsuren op [+32 13 33 76 33](tel:+3213337633).
 
 **Let op:** Via email worden afspraken niet verwerkt. Afspraken worden enkel via de online tool of, indien nodig, telefonisch verwerkt.
