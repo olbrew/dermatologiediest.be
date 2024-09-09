@@ -17,3 +17,8 @@ Dit kan via telefoon op [+32 13 33 76 33](tel:+3213337633) of via een email naar
 
 ## Ik heb een andere vraag?
 Bel ons tijdens de openingsuren op [+32 13 33 76 33](tel:+3213337633) of mail op <info@dermatologiediest.be>. Wij helpen u zo spoedig mogelijk verder.
+
+## Waar kan ik parkeren met de auto?
+Op wandelafstand van de praktijk vindt u de betalende [Parking Ezeldijk](https://www.indigoneo.be/nl/parkings?service=booking&assetIds=25218&search=Ezeldijk&searchText=Ezeldijk&latitude=50.98944&longitude=5.0579&vehicleType=car), 
+die 24 op 7 beschikbaar is.\
+Andere parkeermogelijkheden, ook gratis, vindt u op de [parkeerpagina van Diest](https://www.diest.be/parkeren).
