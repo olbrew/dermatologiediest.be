@@ -6,10 +6,12 @@ heroBackground: 'img/gebouw.jpg'
 ---
 
 ## Hoe maak ik een afspraak?
-Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
+Tijdelijk kunnen er geen afspraken via de online tool worden gemaakt.
+Gelieve te bellen tijdens de openingsuren of te mailen op <info@dermatologiediest.be>.
+<!-- Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
 Voor laser behandelingen of ingrepen belt u tijdens de openingsuren op [+32 13 33 76 33](tel:+3213337633).
 
-**Let op:** Via email worden afspraken niet verwerkt. Afspraken worden enkel via de online tool of, indien nodig, telefonisch verwerkt.
+**Let op:** Via email worden afspraken niet verwerkt. Afspraken worden enkel via de online tool of, indien nodig, telefonisch verwerkt.-->
 
 ## Ik geraak niet meer op mijn afspraak. Hoe annuleer ik?
 Indien u uw afspraak wilt annuleren, kan dit **tot 2 werkdagen op voorhand**.
