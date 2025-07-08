@@ -40,4 +40,4 @@ menu:
       weight: 4
 permalinks:
   post: /:year/:month/:day/:slug/
-  pages: /:filename/
+  pages: /:contentbasename/
