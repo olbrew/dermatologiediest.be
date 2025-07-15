@@ -6,7 +6,7 @@ heroBackground: 'img/gebouw.jpg'
 ---
 
 ## Hoe maak ik een afspraak?
-Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
+Afspraken voor consultaties worden via de online booking tool gemaakt. [Boek hier uw consultatie](https://agenda.mediris.be/appointments?agenda=bfacbc6e-00f0-436f-83e7-049b756e9255).\
 Voor laser behandelingen of ingrepen belt u tijdens de openingsuren op [+32 13 33 76 33](tel:+3213337633).
 
 **Let op:** Via email worden afspraken niet verwerkt. Afspraken worden enkel via de online tool of, indien nodig, telefonisch verwerkt.

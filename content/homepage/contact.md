@@ -4,7 +4,7 @@ weight: 3
 ---
 
 ## Hoe maak ik een afspraak?
-Afspraken worden bij voorkeur via de online booking tool gemaakt. [Boek hier uw afspraak](https://onlinebooking.myorganizer.online/?guid=NzdmZDIwMzItMTIzMy00MWYyLWJkY2EtMGVmOTA0NDZjYzhj&language=bmxfQkU%3D&role=OA%3D%3D).\
+Afspraken worden bij voorkeur via de online booking tool gemaakt. [Boek hier uw afspraak](https://agenda.mediris.be/appointments?agenda=bfacbc6e-00f0-436f-83e7-049b756e9255).\
 Anders kan u ons ook altijd bellen voor **ENKEL** telefonisch gemaakt, niet via email.
 
 ## Hoe kan ik betalen?
