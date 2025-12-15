@@ -21,8 +21,6 @@ hours:
     close2: 18:15
   - day: Woensdag
     open: 08:30
-    close: 19:00
-    open: 08:30
     close: 12:00
     open2: 13:30
     close2: 19:00
