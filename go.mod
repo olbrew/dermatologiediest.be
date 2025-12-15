@@ -2,6 +2,6 @@ module github.com/olbrew/dermatologiediest.be
 
 go 1.17
 
-require github.com/olbrew/hugo-hero-theme v0.0.0-20250716135029-0551dce29d23 // indirect
+require github.com/olbrew/hugo-hero-theme v0.0.0-20251215232417-fdb7ff58932f // indirect
 
 //replace github.com/olbrew/hugo-hero-theme => /Users/o/Developer/web/hugo-hero-theme/
