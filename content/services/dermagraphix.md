@@ -9,7 +9,7 @@ weight: 7
 
 Zowel voor medische als esthetische redenen bijvoorbeeld voor de wegname van storende moederplekken als behandeling van huidtumoren.
 
-Meerkost van €45
+Meerkost van €50
 
 Melanomen komen steeds vaker voor. Tussen 2000 en 2020 nam het aantal huidkankers in België toe met meer dan 400%. Melanoom is intussen de vierde meest voorkomende tumor bij vrouwen en de zesde bij mannen in België.
 
